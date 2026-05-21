@@ -742,6 +742,11 @@ img { max-width: 100%; }
   overflow: hidden;
 }
 
+.fp-wp-card--partner {
+  flex-direction: column;
+  align-items:    center;
+}
+
 /* ════════════════════════════════════════════════════════
    NEWS
    ════════════════════════════════════════════════════════ */
